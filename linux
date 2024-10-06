@@ -1,0 +1,13 @@
+#Linux Commands
+mkdir-(For creating single Directory)
+touch -(For Creating single file)
+touch a b c -(used for creating multiple files)
+cp -(cp command is used for copy and paste file or directory)
+mv -(For move file or directory)
+chmod 777 – (read, write, execute for all)
+exit -(For logout from user account)
+sudo -(For switch user account)
+ls – (directory listing)
+cd – (change to home)
+pwd – (show current directory)
+mkdir dir – (create a directory dir)
